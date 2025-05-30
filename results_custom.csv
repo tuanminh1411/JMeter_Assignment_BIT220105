@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET About Page,36802,48,17,3226,72.95,100.000%,612.94782,983.47,70.03,1643.0
+TOTAL,36802,48,17,3226,72.95,100.000%,612.94782,983.47,70.03,1643.0
